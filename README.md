@@ -1,5 +1,6 @@
 This is a repository to store the project task files of the Python Development Internship at ShadowFox.
-I have basically 2 folders named :
+I have basically 3 folders named :
+- Task List and Description
 - Source Code
 - Screenshots
 Each of them have 3 folders named :
